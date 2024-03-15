@@ -1,0 +1,3 @@
+pdftk in.pdf cat 2-end output out.pdf
+pdftk in.pdf burst output out_%d.pdf
+pdftk in_{1..9}.pdf cat output out.pdf

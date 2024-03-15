@@ -1,0 +1,6 @@
+C-t    : new tag
+C-l    : focus on url
+C-1..9 : switch between tag
+C-h    : history
+C-S-o  : bookmarks
+C-w    : close tag
